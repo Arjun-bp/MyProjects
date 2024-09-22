@@ -1,1 +1,1 @@
-This is inclusive of R and Pyhton programming language
+This is inclusive of R and Pyhton programming languages
